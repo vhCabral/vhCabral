@@ -3,8 +3,6 @@
 <ul>
   <li>🎓 Formado em Análise e Desenvolvimento de Sistemas pela UniFECAF (Concluído em dezembro de 2024).</li>
   <li>🔍 Estudando tecnologias com ênfase em desenvolvimento Front-end</li>
-  <li>Third item</li>
-  <li>Fourth item</li>
 </ul>
 <h2 align="left"> Habilidades</h2>
 <p align="left">📋 Linguagens:</p>
