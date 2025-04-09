@@ -5,6 +5,7 @@
   <li>🔍 Estudando tecnologias com ênfase em desenvolvimento Front-end</li>
 </ul>
 <h2 align="left"> Habilidades</h2>
+<img align="right" src="https://github.com/user-attachments/assets/6f0bd1e4-f00d-43d3-9000-cf1edcd7df9a" alt="Mega Man Novo" width="300">
 <p align="left">📋 Linguagens:</p>
 
 ###
@@ -68,5 +69,5 @@
 </div>
 
 ###
-![Mega Man (Energy)](https://github.com/user-attachments/assets/39264b99-b3ce-4bf4-82ba-36cda8792183)
+
 
