@@ -69,5 +69,9 @@
 
 ###
 
-![Mega Man (Energy)](https://github.com/user-attachments/assets/39264b99-b3ce-4bf4-82ba-36cda8792183)
+<div align="right">
+  ![Mega Man (Energy)](https://github.com/user-attachments/assets/39264b99-b3ce-4bf4-82ba-36cda8792183)
+</div>
+
+###
 
