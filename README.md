@@ -2,19 +2,19 @@
 
 ###
 
-<h4 align="left">📖 Sobre mim</h4>
+<h3 align="left">📖 Sobre mim</h3>
 
 ###
 
-<h5 align="left">🎓 Formado em Análise e Desenvolvimento de Sistemas pela UniFECAF (Concluído em dezembro de 2024).</h5>
+<p align="left">🎓 Formado em Análise e Desenvolvimento de Sistemas pela UniFECAF (Concluído em dezembro de 2024).</p>
 
 ###
 
-<h5 align="left">🔍 Estudando tecnologias com ênfase em desenvolvimento full-stack</h5>
+<p align="left">🔍 Estudando tecnologias com ênfase em desenvolvimento full-stack</p>
 
 ###
 
-<h4 align="left">📋Languages and Tools:</h4>
+<h3 align="left">📋Languages and Tools:</h3>
 
 ###
 
@@ -33,3 +33,13 @@
 </div>
 
 ###
+
+<h4 align="left">Connect with me:</h4>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/victor-henrique-cabral-04b399220/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  </a>
+</div>
