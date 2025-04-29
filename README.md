@@ -1,20 +1,20 @@
-<h4 align="center">Bem-vindo(a) ao meu perfil 🌐</h4>
+<h2 align="center">Bem-vindo(a) ao meu perfil 🌐</h2>
 
 ###
 
-<h5 align="left">📖 Sobre mim</h5>
+<h4 align="left">📖 Sobre mim</h4>
 
 ###
 
-<h6 align="left">🎓 Formado em Análise e Desenvolvimento de Sistemas pela UniFECAF (Concluído em dezembro de 2024).</h6>
+<h5 align="left">🎓 Formado em Análise e Desenvolvimento de Sistemas pela UniFECAF (Concluído em dezembro de 2024).</h5>
 
 ###
 
-<h6 align="left">🔍 Estudando tecnologias com ênfase em desenvolvimento full-stack</h6>
+<h5 align="left">🔍 Estudando tecnologias com ênfase em desenvolvimento full-stack</h5>
 
 ###
 
-<h5 align="left">Languages and Tools:</h5>
+<h4 align="left">📋Languages and Tools:</h4>
 
 ###
 
