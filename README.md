@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔍 Estudando tecnologias com ênfase em desenvolvimento full-stack</p>
+<p align="left">🔍 Estudando tecnologias com ênfase em desenvolvimento back-end</p>
 
 ###
 
@@ -19,8 +19,6 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
