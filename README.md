@@ -1,12 +1,12 @@
-<h2 align="center">Bem-vindo(a) ao meu perfil 🌐</h2>
+<h1 align="center">Bem-vindo(a) ao meu perfil 🌐</h1>
 
-###
+**`Desenvolvedor back-end`**
 
 <h3 align="left">📖 Sobre mim</h3>
 
-###
+Victor Cabral, 22 anos, de São Paulo. Estou sempre em busca de aprendizado e novos desafios.
 
-<p align="left">🎓 Formado em Análise e Desenvolvimento de Sistemas pela UniFECAF</p>
+<p align="left">🎓 Formado em Análise e Desenvolvimento de Sistemas (ADS) pela UniFECAF e atualmente cursando Gestão da Tecnologia da Informação (GTI).</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">📋ferramentas e linguagens</h3>
+<h3 align="left">🛠️ferramentas e linguagens</h3>
 
 ###
 
