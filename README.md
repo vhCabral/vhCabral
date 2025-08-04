@@ -32,7 +32,7 @@ Victor Cabral, 22 anos, de São Paulo. Estou sempre em busca de aprendizado e no
 
 ###
 
-<h4 align="left">📫 Entre em contato comigo:</h4>
+<p align="left">📫 Entre em contato comigo:</p>
 
 ###
 
