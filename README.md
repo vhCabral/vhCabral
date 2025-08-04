@@ -14,7 +14,7 @@ Victor Cabral, 22 anos, de São Paulo. Estou sempre em busca de aprendizado e no
 
 ###
 
-<p align="left">🛠️ ferramentas e linguagens</p>
+<p align="left">🛠️ ferramentas e linguagens: </p>
 
 ###
 
